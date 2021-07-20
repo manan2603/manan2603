@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daymamanan2002&label=Profile%20views&color=0e75b6&style=flat" alt="daymamanan2002" /> </p>
 
 
-- 🔭 I’m currently working on **KPMG Virtual Internship**
+- 🔭 I’m currently working as a **Data Analyst Intern @TSF**
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
